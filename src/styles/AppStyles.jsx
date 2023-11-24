@@ -42,3 +42,12 @@ export const CountContainer = styled.div`
   font-size: 16px;
   font-weight: bold;
 `;
+
+export const CompleteAllButton = styled.button`
+  background-color: #008cba;
+  color: white;
+  padding: 8px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  border: none;
+`;

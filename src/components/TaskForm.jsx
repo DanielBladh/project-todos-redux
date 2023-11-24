@@ -30,6 +30,8 @@ const TaskForm = () => {
       <form onSubmit={handleSubmit}>
         <input
           type="text"
+          id="taskText"
+          name="taskText" 
           value={newTask}
           onChange={handleInputChange}
           placeholder="Task"

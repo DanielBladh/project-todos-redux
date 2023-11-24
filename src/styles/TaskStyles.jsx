@@ -33,7 +33,7 @@ export const TaskRemoveButton = styled.button`
 `;
 
 export const DueDate = styled.span`
-  color: #666; /* Adjust color to suit your design */
-  font-size: 0.85em; /* Modify font size for readability */
-  margin-left: 10px; /* Add margin for separation */
+  color: #666; 
+  font-size: 0.85em; 
+  margin-left: 10px;
 `;

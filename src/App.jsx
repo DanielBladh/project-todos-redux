@@ -16,7 +16,7 @@ export const App = () => {
   return (
     <Provider store={store}>
       <AppContainer>
-        <h1>ToDo App</h1>
+        <h1>Daniel's ToDo App</h1>
         <TaskForm />
         <TaskList />
       </AppContainer>
