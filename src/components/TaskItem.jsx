@@ -34,7 +34,6 @@ const TaskItem = ({ task }) => {
       {task.dueDate && (
         <DueDate>Due: {new Date(task.dueDate).toLocaleDateString()}</DueDate>
       )}{" "}
-      {/* Use DueDate component */}
       <TaskRemoveButton onClick={handleRemove}>Remove</TaskRemoveButton>
     </TaskListItem>
   );

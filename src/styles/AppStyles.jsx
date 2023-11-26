@@ -5,7 +5,8 @@ export const AppContainer = styled.div`
   margin: 0 auto;
   padding: 20px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  background-color: white;
+  background-color: #ffffff;
+  border-radius: 10px;
 `;
 
 export const FormContainer = styled.div`
