@@ -8,14 +8,27 @@
 
 # Project Todos
 
-Replace this readme with your own information about your project.
-
-Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
+In this project, I was tasked with building a Todo application using React. The goal was to implement features such as adding and removing tasks, marking tasks as complete, and displaying task counts. I used React, Redux Toolkit for state management, and styled-components for styling.
 
 ## The problem
 
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
+I started by sketching out the components and the overall structure of the application. I used Redux Toolkit to manage the state, creating slices for tasks and implementing actions for adding, removing, and toggling tasks. Styled-components were used to style the components and make the application visually appealing. I also considered responsiveness for different screen sizes.
+
+## Technologies used
+List the technologies and tools you used in your project. For example:
+
+React
+Redux Toolkit
+Styled-components
+npm
+
+## If you had more time
+Discuss what additional features or improvements you would make if you had more time. This can include things like:
+
+Implementing local storage to persist tasks
+Adding due dates and sorting tasks based on due dates
+Improving the overall user interface and user experience
 
 ## View it live
 
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+https://todo-danielbladh.netlify.app/
